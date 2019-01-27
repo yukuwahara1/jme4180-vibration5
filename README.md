@@ -1,2 +1,3 @@
 # jme4180-vibration5
-Vibrational Analysis of a Multi Degree-of-Freedom System
+
+In this experiment, a system with multiple degrees of freedom was analyzed to observe both the free and forced response. Using an air track system with five carts connected by springs, the system was excited first though manual force to observe the natural frequencies of the system. Next, excitation came from an external shaker device programmed with the natural frequencies found previously in order to observe the various mode shapes and node locations. The key findings in this experiment were the natural frequencies of the system and its node locations. The natural frequencies for this system were 1.200 Hz, 2.112 Hz, 3.000 Hz, 3.800 Hz, and 4.200 Hz while the node locations varied by mode. 
